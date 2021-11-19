@@ -1,1 +1,3 @@
 # TugasMachineLearning
+DAVID HASUDUNGAN ARUAN 
+1103184058
